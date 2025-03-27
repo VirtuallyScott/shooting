@@ -1,0 +1,11 @@
+# Date: 
+# Location: Your Range Name
+# Weather Conditions: Temp: ___°F, Wind: ___mph, Humidity: ___%
+# Distance (yards): 100
+Load #,Bullet,Powder,Charge (gr),COAL,Primer,Velocity (fps),ES,SD,Group Size (MOA),Notes
+1,140gr Hornady ELD-M,H4350,40.0,2.800,CCI 200,,,,,Standard match load
+2,142gr Sierra MatchKing,RL-16,40.5,2.800,CCI BR-2,,,,,Great for long-range
+3,147gr Hornady ELD-M,H4350,39.5,2.820,CCI 200,,,,,"Heavier, long-range"
+4,140gr Nosler RDF,IMR 4451,39.5,2.800,CCI BR-2,,,,,High BC bullet
+5,143gr Hornady ELD-X,H4350,40.0,2.810,CCI 200,,,,,Hunting load
+6,130gr Berger AR Hybrid,Varget,37.0,2.780,CCI 200,,,,,"Flat-shooting, low recoil"

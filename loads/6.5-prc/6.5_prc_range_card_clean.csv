@@ -1,0 +1,11 @@
+# Date: 
+# Location: Your Range Name
+# Weather Conditions: Temp: ___°F, Wind: ___mph, Humidity: ___%
+# Distance (yards): 100
+Load #,Bullet,Powder,Charge (gr),COAL,Primer,Velocity (fps),ES,SD,Group Size (MOA),Notes
+1,147gr Hornady ELD-M,H1000,54.0,2.955,CCI 250,,,,,Consistent performer
+2,140gr Berger Hybrid,Retumbo,53.5,2.980,Fed 215M,,,,,"Accurate, smooth recoil"
+3,150gr Sierra MatchKing,RL-26,54.0,2.965,CCI 250,,,,,"Good BC, velocity"
+4,156gr Berger EOL,H1000,52.5,3.140,Fed 215M,,,,,Extreme range bullet
+5,135gr Hornady A-Tip,N565,53.0,3.115,CCI 250,,,,,Flat shooting
+6,143gr Hornady ELD-X,H4831SC,53.0,2.980,CCI 250,,,,,Hunting and steel

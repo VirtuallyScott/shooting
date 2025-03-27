@@ -1,0 +1,11 @@
+# Date: 
+# Location: Your Range Name
+# Weather Conditions: Temp: ___°F, Wind: ___mph, Humidity: ___%
+# Distance (yards): 100
+Load #,Bullet,Powder,Charge (gr),COAL,Primer,Velocity (fps),ES,SD,Group Size (MOA),Notes
+1,32gr Hornady V-MAX,Benchmark,25.0,2.260,CCI 450,,,,,Accurate and fast
+2,32gr Sierra BlitzKing,CFE 223,26.0,2.280,Rem 7½,,,,,High velocity
+3,32gr Nosler Ballistic Tip,H322,24.5,2.270,Fed 205,,,,,Great terminal performance
+4,32gr Hornady Z-MAX,IMR 8208 XBR,25.2,2.265,CCI 400,,,,,Z-MAX = green-tip V-MAX
+5,32gr Berger HP,TAC,25.5,2.275,CCI 450,,,,,Match-style bullet
+6,32gr Dogtown,RL-10X,23.5,2.250,Fed 205M,,,,,Budget but effective
