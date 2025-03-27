@@ -1,0 +1,7 @@
+Load #,Bullet,Powder,Min Charge (gr),Max Charge (gr),Increment (gr),COAL,Primer,Notes
+1,32gr Hornady V-MAX,Benchmark,25.0,27.0,0.3,2.260,CCI 450,"Accurate and fast, common varmint load"
+2,32gr Sierra BlitzKing,CFE 223,26.0,28.3,0.3,2.280,Rem 7½,"High velocity, low ES"
+3,32gr Nosler Ballistic Tip,H322,24.5,26.5,0.3,2.270,Fed 205,Great terminal performance
+4,32gr Hornady Z-MAX,IMR 8208 XBR,25.2,27.2,0.3,2.265,CCI 400,Z-MAX identical to V-MAX with green tip
+5,32gr Berger HP,TAC,25.5,27.5,0.3,2.275,CCI 450,"Match-style bullet, good groups"
+6,32gr Dogtown (Midway),RL-10X,23.5,25.5,0.3,2.250,Fed 205M,"Budget option, surprisingly effective"

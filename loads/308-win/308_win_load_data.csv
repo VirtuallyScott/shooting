@@ -1,0 +1,7 @@
+Load #,Bullet,Powder,Min Charge (gr),Max Charge (gr),Increment (gr),COAL,Primer,Notes
+1,168gr Hornady ELD-M,Varget,42.0,45.0,0.3,2.800,CCI BR-2,Classic accuracy load
+2,175gr Sierra MatchKing,IMR 4064,41.0,43.5,0.3,2.810,Fed 210M,Standard military match load
+3,155gr Berger Fullbore,H4895,44.0,46.0,0.3,2.780,CCI 200,Optimized for short barrels
+4,178gr Hornady BTHP,Reloder 15,40.5,43.0,0.3,2.820,Fed 210,Heavy hitter for long-range
+5,165gr Nosler AccuBond,CFE 223,43.0,45.5,0.3,2.790,CCI 200,Great hunting performer
+6,150gr Hornady InterLock,BL-C(2),45.0,47.0,0.3,2.775,Win LR,Good general-purpose load
